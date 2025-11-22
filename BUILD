@@ -6,3 +6,7 @@ python_tests(
     name="tests0",
     dependencies=[":root#pybigquery"],
 )
+
+python_sources(
+    name="0",
+)
